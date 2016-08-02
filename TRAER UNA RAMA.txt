@@ -1,0 +1,3 @@
+git checkout -b <branch> --track <remote>/<branch>
+
+git checkout -b develop --track origin/develop
